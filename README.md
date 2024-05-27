@@ -35,6 +35,7 @@ or modify the `usage.py`.
 ## TODOs
 
 [ ] Add training code for sLSTM with proper example
+
 [ ] Add mLSTM block for parallelization and covariance update rule
 
 ## License
