@@ -65,10 +65,10 @@ exclude = [
 include-package-data = true
 
 [tool.setuptools.package-data]
-my_package = ["py.typed"]
+x_lstm_jax = ["py.typed"]
 
 [tool.setuptools.dynamic]
-version = {attr = "my_package.version.VERSION"}
+version = {attr = "x_lstm_jax.version.VERSION"}
 
 [tool.black]
 line-length = 100

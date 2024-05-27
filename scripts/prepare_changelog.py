@@ -3,7 +3,7 @@ from __future__ import annotations
 from datetime import datetime
 from pathlib import Path
 
-from my_package.version import VERSION
+from x_lstm_jax.version import VERSION
 
 
 def main():
