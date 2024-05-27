@@ -1,6 +1,6 @@
 click>=7.0,<9.0
 click-help-colors>=0.9.1,<0.10
 rich>=11.0,<14.0
-jax==0.4.25
+jax==0.4.28
 jaxlib==0.4.25
 flax==0.8.4
